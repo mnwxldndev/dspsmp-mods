@@ -1,0 +1,46 @@
+{
+  "totalPatsCounter": {
+    "pats": 824
+  },
+  "entities": {
+    "minecraft:pillager": {
+      "pats": 27
+    },
+    "minecraft:cat": {
+      "pats": 208
+    },
+    "minecraft:bat": {
+      "pats": 21
+    },
+    "minecraft:pig": {
+      "pats": 45
+    },
+    "minecraft:ravager": {
+      "pats": 27
+    },
+    "minecraft:iron_golem": {
+      "pats": 4
+    },
+    "minecraft:sheep": {
+      "pats": 229
+    },
+    "minecraft:ocelot": {
+      "pats": 12
+    },
+    "minecraft:cow": {
+      "pats": 23
+    },
+    "minecraft:magma_cube": {
+      "pats": 37
+    },
+    "minecraft:chicken": {
+      "pats": 40
+    },
+    "minecraft:warden": {
+      "pats": 37
+    },
+    "minecraft:horse": {
+      "pats": 101
+    }
+  }
+}

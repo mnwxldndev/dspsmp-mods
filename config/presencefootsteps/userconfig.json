@@ -1,0 +1,24 @@
+{
+  "disabled": false,
+  "volume": 0.7,
+  "runningVolumeIncrease": 0.0,
+  "clientPlayerVolume": 1.0,
+  "otherPlayerVolume": 1.0,
+  "hostileEntitiesVolume": 1.0,
+  "passiveEntitiesVolume": 1.0,
+  "wetSoundsVolume": 0.5,
+  "foliageSoundsVolume": 1.0,
+  "maxSteppingEntities": 50,
+  "multiplayer": true,
+  "global": true,
+  "footwear": true,
+  "visualiser": false,
+  "exclusive": false,
+  "stance": "BIPED",
+  "targetEntities": "ALL",
+  "ignoredEntityTypes": [
+    "minecraft:phantom",
+    "minecraft:happy_ghast",
+    "minecraft:ghast"
+  ]
+}
