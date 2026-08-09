@@ -1,0 +1,14 @@
+{
+  "rules": [
+    { "glob": "mods/**", "policy": "managed" },
+    { "glob": "emotes/**", "policy": "managed" },
+    { "glob": "resourcepacks/**", "policy": "managed" },
+    { "glob": "shaderpacks/**", "policy": "managed" },
+    { "glob": "config/**", "policy": "merge" },
+    { "glob": "options.txt", "policy": "seed" },
+    { "glob": "servers.dat", "policy": "pinned" },
+    { "glob": "**_old", "policy": "ignore" },
+    { "glob": "**.bak", "policy": "ignore" }
+  ],
+  "patches": []
+}
